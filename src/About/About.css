@@ -1,0 +1,113 @@
+about {
+    background-color: #fff;
+    
+}
+about img {
+    width: 80%;
+    height: auto;
+    border-radius: 0% 30% 30% 30%;
+    margin-left: 50px;
+    margin-top: 70px;
+
+}
+about div.img2 img{
+    margin-top: 10px;
+    margin-left:105px;
+    border-radius: 30% 30% 30% 0%;
+    align-content: flex-start;
+    width: 60%;
+    height: auto;
+
+
+}
+about div.img3 img{
+    left:33%;
+    border-radius: 30% 0% 30% 30%;
+    margin-left: 100%;
+    width:200px;
+    height: auto;
+    margin:0px 50px 0px 0px ;
+
+
+}
+about div.img4 img{
+    height: 175px;
+    width: 200px;
+    position: absolute;
+    border-radius: 50px 50px 0px 50px;
+    margin-top: 10px;
+left: 315px;
+}
+about svg{
+    color: var(--orange-color);
+    position: absolute !important;
+    left : 27% ;
+    top:150% !important;
+    rotate: 90;
+    font-size: 30px;
+    rotate: 45deg ;
+
+}
+about a{
+    color: var(--orange-color);
+    margin-left: 15px;
+    margin-bottom: 100px;
+    font-weight: 600;
+    font-size: 15px;
+}
+about h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 1000;
+    color: var(--main-color);
+    word-spacing: 2px;
+}
+about p{
+    color: var(--main-color);
+
+}
+about button{
+   margin: 30px 20px 0px 0px;
+    width: 250px;
+    height: 60px;
+    color: var(--main-color);
+    font-weight: 600;
+    border: 1px solid #98fffc !important;
+    background-color: #f4ffff !important;
+    border-radius: 5px !important;
+
+}
+about button:hover{
+    color: #628df1;
+}
+about div.first svg{
+    color:#6dfffa;
+    position: absolute;
+    left:73% !important;
+    top: 161% !important;
+    rotate: 0deg ;
+
+
+}
+about div.second svg{
+    color:#6dfffa;
+    position: absolute !important;
+    left:53% !important;
+    top: 176% !important;
+    rotate: 0deg ;
+
+
+}
+about div.last button{
+    background-color: var(--btn-color) !important;
+    width: 120px;
+    height: 50px;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: 400;
+    border: 1px solid var(--btn-color) !important ;
+
+}
+about div.last button:hover{
+    color: #628df1;
+}
